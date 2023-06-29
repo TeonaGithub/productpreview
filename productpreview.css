@@ -1,0 +1,10 @@
+body{background-color:hsl(30, 38%, 92%) ;}
+*{box-sizing: border-box;}
+#box1{width: 600px; height: 490px;  margin-top: 160px;margin-left: 430px;position: relative;}
+#div1{position: absolute;left: 0px;padding-left: 0px;}
+div {position: absolute; padding-left: 42px; background-color:hsl(0, 0%, 100%); width: 300px;height:450px; right: 0px;border-radius: 10px;}
+h5 {color: grey;letter-spacing: 3px;}
+#p1{color: grey;line-height: 25px;}
+#p2{color:  hsl(158, 36%, 37%);font-size: 30px;}
+sup{color: grey; font-size: 14px;}
+button{width: 230px; height: 50px;background-color: hsl(158, 36%, 37%);border-radius: 10px;border: none; color: white;font-size: 15px;}
